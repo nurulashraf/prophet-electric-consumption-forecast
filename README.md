@@ -1,1 +1,1 @@
-# prophet-electric-consumption-forecast
+# Electricity Consumption Forecasting using Prophet
