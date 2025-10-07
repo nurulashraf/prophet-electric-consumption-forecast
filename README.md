@@ -13,6 +13,7 @@ A simple forecasting project that uses Facebook’s Prophet to predict electrici
 
 ## Project Structure
 
+- **data/** – raw and processed datasets used for training and testing  
 - **notebooks/** — Jupyter notebooks containing data exploration, modeling steps, forecast visualisations, and results  
 - **requirements.txt** — Python dependencies required to run the notebooks  
 - **LICENSE** — The MIT license file  
